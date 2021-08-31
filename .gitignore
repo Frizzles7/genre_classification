@@ -1,0 +1,4 @@
+artifacts/*
+wandb/*
+mlruns/*
+outputs/*
